@@ -1,4 +1,4 @@
-module del/movie
+module github.com/dELUSION-MS/crud-movie
 
 go 1.17
 
